@@ -1,0 +1,13 @@
+/*esto es un comentario en css .-.*/
+*{
+    font-size: 25px;
+}
+body {
+    background-color: rgba(156, 62, 219, 0.479);
+   
+}
+
+h1 {
+    color:rgba(16, 15, 20, 0.925);
+    
+}
